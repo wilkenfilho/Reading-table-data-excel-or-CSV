@@ -1,0 +1,9 @@
+Esse código é voltado para o site https://netlytic.org/index.php
+
+Lá vc puxa as bases do twitter e faz a alteracao dos arquivos xlsx.
+
+separe cada parte por células do notebook jupyter ou google colab.
+
+fiz o teste em ambos sistemas e funcionaram perfeitamente.
+
+upei a versao em ipynb para não ter nenhuma problema.
